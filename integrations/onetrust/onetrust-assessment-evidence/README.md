@@ -155,4 +155,4 @@ This pattern works for any GRC tool that exposes an assessment API:
 
 ## Full guide
 
-[docs.credo.ai/integrations/onetrust/pia-evidence-sync](https://docs.credo.ai/integrations/onetrust/pia-evidence-sync)
+[docs.credo.ai/integrations/onetrust/onetrust-assessment-evidence](https://docs.credo.ai/integrations/onetrust/onetrust-assessment-evidence)
